@@ -1,0 +1,5 @@
+[[language]]
+name = "python"
+scope = "source.python"
+roots = ["pyproject.toml", "setup.py", "poetry.lock", "pyrightconfig.json", "Pipfile"]
+language-servers = ["pyright"]
